@@ -11,3 +11,5 @@
     font-weight: 700;
     font-style: normal;
 }
+
+body,h1,h2,h3,h4,h5,h6,p,div,li,dt,dd,input,textarea,button{font-family: "Noto Sans","Nanum Gothic","Malgun Gothic",sans-serif;}
